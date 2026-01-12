@@ -19,7 +19,7 @@ const projects: Project[] = [
   {
     title: "Bizzy Bee",
     description: "A student–business matching platform with a swipe-based interface and a Gemini AI–powered chatbot.",
-    tags: ["React.js", "Python", "SQLite" , "HTML/CSS", "JavaScript"],
+    tags: ["React", "Python", "SQLite" , "HTML/CSS", "JavaScript"],
     github: "https://github.com/erjona505/BizzyBee",
     live: "https://dorahacks.io/buidl/22869",
   },
