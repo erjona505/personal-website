@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-mono text-sm text-muted-foreground">
-            © 2025. Built with caffeine & love.
+            © 2025 Erjona Kalari. Built with caffeine & love.
           </p>
           <div className="flex gap-6">
             <a href="https://github.com/erjona505" target="_blank" rel="noopener noreferrer" className="social-icon">
